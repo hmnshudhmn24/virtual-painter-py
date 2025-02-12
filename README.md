@@ -18,6 +18,3 @@ A **Python AI-Powered Virtual Painter** that:
    ```  
 3. Use your index finger to draw on the screen.  
 4. Press 'q' to exit.  
-
-## Author  
-Himanshu Dhiman  
